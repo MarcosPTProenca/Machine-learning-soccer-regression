@@ -5,6 +5,7 @@
 
 I am a soccer lover so I decided to start a project using programming to try to predic with regression the final pontuation of the soccer teams that are participating in Campeonato Brasileiro de Futebol Série A, which is a running point championship with 38 rounds and 20 teams and a very hard one with 7 different winners in the past 18 years.
 * This project was developed for the subject Introdução ao aprendizado de máquina e à mineração de dados (PO450) offered by the college Unicamp
+ 
 > ## Built With
 
 Python in Jupyter Notebook
@@ -16,7 +17,7 @@ To get the data to train and to test my machine learning models I used web scrap
 
 ![image](https://user-images.githubusercontent.com/88220952/128258316-353fe366-943b-4edb-b32a-66976dd4751f.png)
 
-> ## Data for trai and test
+> ## Data for training and testing
 
 X_train = atrib_norm[:4560] # 2013-2018
 
