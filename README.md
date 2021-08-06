@@ -5,6 +5,7 @@
 
 I am a soccer lover so I decided to start a project using programming to try to predic with regression the final pontuation of the soccer teams that are participating in Campeonato Brasileiro de Futebol Série A, which is a running point championship with 38 rounds and 20 teams and a very hard one with 7 different winners in the past 18 years.
 * This project was developed for the subject Introdução ao aprendizado de máquina e à mineração de dados (PO450) offered by the college Unicamp
+ 
 > ## Built With
 
 Python in Jupyter Notebook
